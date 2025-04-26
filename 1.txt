@@ -1,0 +1,4 @@
+hello, this is 1.txt 
+this is updated from console 
+this is deleted files
+and im creating again
